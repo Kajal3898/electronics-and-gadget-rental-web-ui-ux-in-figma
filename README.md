@@ -4,6 +4,20 @@
 
 ---
 
+📌 Project Overview
+Rento is a smart rental platform that makes cutting-edge electronics and gadgets accessible and affordable for everyone. Designed for students, professionals, businesses, and tech enthusiasts, Rento offers a flexible and cost-effective alternative to ownership.
+
+Our curated catalog includes:
+💻 Laptops & tablets
+📱 Smartphones
+📷 Cameras & accessories
+🎮 Gaming consoles
+📽️ Projectors & home appliances
+
+Whether you're working on a project, testing a device, or just need tech temporarily — Rento delivers the latest gadgets to your doorstep with flexible rental plans and zero hassle.
+
+<a href="https://freeimage.host/i/FEhnDDG"><img src="https://iili.io/FEhnDDG.md.png" alt="FEhnDDG.md.png" border="0"></a>
+
 ## 🎨 Figma Design File
 
 This repository includes the official **Figma design** that outlines the UI/UX for the Rento platform.
